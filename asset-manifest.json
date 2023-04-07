@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.632f2df4.css",
+    "main.js": "/portfolio/static/js/main.6e6321aa.js",
+    "static/media/bg-4.jpg": "/portfolio/static/media/bg-4.457bc7e40ca3a1ddf607.jpg",
+    "static/media/netflix.png": "/portfolio/static/media/netflix.5967165380fc1df1ddc2.png",
+    "static/media/prr-cabs.png": "/portfolio/static/media/prr-cabs.ffebaa32d2e4240cdc1b.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.56ad78914ddbffdc948d.png",
+    "static/media/azhvar.png": "/portfolio/static/media/azhvar.382869f23fa9b7c63bf8.png",
+    "static/media/per_img.jpeg": "/portfolio/static/media/per_img.7d2ae6e379d3a2af6d3e.jpeg",
+    "static/media/calculator.png": "/portfolio/static/media/calculator.b8712af041cf669fd961.png",
+    "static/media/node_js.png": "/portfolio/static/media/node_js.ea3b915cd645a4616587.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.51e2f426ab315e03b3e2.png",
+    "static/media/php.png": "/portfolio/static/media/php.f2e8e7c6e65d17075839.png",
+    "static/media/jq.png": "/portfolio/static/media/jq.f1170e8e40f2264af990.png",
+    "static/media/css.png": "/portfolio/static/media/css.66f01fcf0fb146afe57c.png",
+    "static/media/js.png": "/portfolio/static/media/js.00b86ecaf81a2d26490d.png",
+    "static/media/html.png": "/portfolio/static/media/html.c61ed4ddf71a79c9cb0d.png",
+    "static/media/react.png": "/portfolio/static/media/react.4e2b6cd480d548ea939e.png",
+    "index.html": "/portfolio/index.html",
+    "main.632f2df4.css.map": "/portfolio/static/css/main.632f2df4.css.map",
+    "main.6e6321aa.js.map": "/portfolio/static/js/main.6e6321aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632f2df4.css",
+    "static/js/main.6e6321aa.js"
+  ]
+}
